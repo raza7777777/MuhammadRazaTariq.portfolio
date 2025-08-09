@@ -30,14 +30,9 @@ const Footer: React.FC = () => {
             <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-6 text-sm text-gray-400">
               <div className="flex items-center space-x-2">
                 <span>Made </span>
-                <span>by Abontech Solution's</span>
+                <span>by Ikotek Solutions</span>
               </div>
-              
-              <div className="flex items-center space-x-2">
-                <Coffee className="w-4 h-4 text-yellow-500" />
-                <span>Fueled by passion, creativity, and endless curiosity.</span>
-              </div>
-            </div>
+            
             
             <div className="mt-4 text-xs text-gray-500">
               © {currentYear} Muhammad Raza. All rights reserved.
