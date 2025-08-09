@@ -101,7 +101,7 @@ const Hero: React.FC = () => {
                 <div className="w-full h-full rounded-full bg-gray-300 dark:bg-gray-700 flex items-center justify-center text-6xl font-bold text-gray-600 dark:text-gray-300 overflow-hidden">
                   {/* Placeholder for profile photo */}
                   <img
-                    src="/src/WhatsApp Image 2025-08-05 at 04.52.19_d7feb221.jpg"
+                    src="https://pbs.twimg.com/media/Gx53VViWUAAa74B?format=jpg&name=small"
                     alt="Muhammad Raza"
                     className="w-full h-full object-cover rounded-full"
                   />
